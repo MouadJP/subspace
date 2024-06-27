@@ -1,0 +1,8 @@
+created a program that looks for data subspace
+データの部分空間を探索するプログラムを作成しました。
+
+
+
+
+
+
